@@ -23,8 +23,9 @@ header p {
 
 
 .heroImg {
-  background-color: #F2D8CE;
+  background: url(../images/Chicago\ Skyline.png);
   padding: 100px 15px;
+  width: auto;
 }
 .content {
   max-width: 300px;
@@ -98,7 +99,7 @@ footer li {
 }
 .workGrid img {
   width: 100%;
-  max-width: 250px;
+  max-width: 800px;
   margin: 0 auto;
   display: block;
 }
